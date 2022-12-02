@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meskalyne
 - 👀 I’m interested in video games, books and design.
-- 🌱 I’m currently learning SQL, JAVA, HTLM, CSS
+- 🌱 I’m currently learning SQL, JAVA, HTLM, CSS, PHP, Symfony
 - 📫 How to reach me ...
 
 <!---
